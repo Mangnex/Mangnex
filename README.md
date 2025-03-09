@@ -3,7 +3,7 @@
 
 ### About Me 🐈
 
-<h4 align="center">I am 15 years old, I like programming, I have 3 years of experience in Lua and I am currently learning other programming languages</h4>
+<h4 align="center">I am 16 years old, I like programming, I have 3 years of experience in Lua and I am currently learning other programming languages</h4>
 
 -  **Learning :** [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)	
 -  **Main Language :** [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
